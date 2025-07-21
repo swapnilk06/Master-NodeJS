@@ -1,0 +1,13 @@
+{
+  "name": "02_hello-world-nodejs",
+  "version": "1.0.0",
+  "description": "- [x] NodeJS execute only `js file`",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  }
+}
