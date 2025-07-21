@@ -42,3 +42,12 @@
 
 
 -------
+
+## 2] NodeJS Installation
+
+- [x] LTS versions are **Stable or production level** version -> **Even series numbering**
+
+- [x] Current version are **Beta version** with features for developer -> **Odd series nummbering**
+
+- [x] **npm** automatic download with nodeJS
+
